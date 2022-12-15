@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User Session Handler</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+</resources>
